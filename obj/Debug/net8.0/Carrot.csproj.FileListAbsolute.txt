@@ -1,0 +1,14 @@
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.AssemblyInfoInputs.cache
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.AssemblyInfo.cs
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.csproj.CoreCompileInputs.cache
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/bin/Debug/net8.0/Carrot
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/bin/Debug/net8.0/Carrot.deps.json
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/bin/Debug/net8.0/Carrot.runtimeconfig.json
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/bin/Debug/net8.0/Carrot.dll
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/bin/Debug/net8.0/Carrot.pdb
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.dll
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/refint/Carrot.dll
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.pdb
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/Carrot.genruntimeconfig.cache
+/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/obj/Debug/net8.0/ref/Carrot.dll
