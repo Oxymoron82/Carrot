@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carrot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b238490f8a6e1c33fe0cf990645764134743afd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c5d4b2a561c35bf74b68d34956523cdfa44f64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carrot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carrot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

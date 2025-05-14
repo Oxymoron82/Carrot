@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "D2Me05Pw/JM=",
+  "dgSpecHash": "oOb7yxpwG3E=",
   "success": true,
-  "projectFilePath": "/Users/s2401570/Documents/portfolio/ohjelmointi/TestProject1/Carrot/Carrot.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/s2401570/Desktop/Carrot/Carrot.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2401570/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/s2401570/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/s2401570/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
